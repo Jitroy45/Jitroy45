@@ -1,16 +1,10 @@
 <!-- Profile README Template -->
 
-<h1 align="center">Hi 👋, I'm [Your Name]</h1>
+<h1 align="center">Hi 👋, I'm LOKI</h1>
 <h3 align="center">A passionate developer proficient in Python, C, C++, and JavaScript</h3>
 
 <p align="center">
   <img src="https://komarev.com/ghpvc/?username=yourusername&label=Profile%20views&color=0e75b6&style=flat" alt="yourusername" />
-</p>
-
-<p align="center">
-  <a href="https://twitter.com/yourusername" target="blank">
-    <img src="https://img.shields.io/twitter/follow/yourusername?logo=twitter&style=for-the-badge" alt="yourusername" />
-  </a>
 </p>
 
 <p align="center">
@@ -20,14 +14,11 @@
 </p>
 
 <!-- About Me -->
-- 🔭 I’m currently working on [Your Project Name](https://github.com/yourusername/yourprojectname)
-- 🌱 I’m currently learning **[New Technology/Framework]**
-- 👯 I’m looking to collaborate on **[Your Collaboration Interests]**
-- 🤝 I’m looking for help with **[Your Request for Help]**
+- 🔭 I’m currently working on [Mirror Leech Telegram Bot](https://github.com/Jitroy45/mirror-leech-telegram-bot)
+- 🌱 I’m currently learning **IOT Implementations in bot applications on discord and telegram**
+- 👯 I’m looking to collaborate on **discord and telegram bot projects**
 - 💬 Ask me about **Python, C, C++, JavaScript**
-- 📫 How to reach me **[your.email@example.com]**
-- 📄 Know about my experiences [Resume](https://yourwebsite.com/resume)
-- ⚡ Fun fact **[Interesting Fact About You]**
+- ⚡ Fun fact **I write poetry**
 
 <!-- Languages and Tools -->
 <h3 align="left">Languages and Tools:</h3>
