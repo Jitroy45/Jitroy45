@@ -14,7 +14,7 @@
 </p>
 
 <!-- About Me -->
-- 🔭 I’m currently working on [Mirror Leech Telegram Bot](https://github.com/Jitroy45/mirror-leech-telegram-bot)
+- 🔭 I’m currently working on [Anime Ocean 3.0](https://github.com/Jitroy45/animeocean-3-0)
 - 🌱 I’m currently learning **IOT Implementations in bot applications on discord and telegram**
 - 👯 I’m looking to collaborate on **discord and telegram bot projects**
 - 💬 Ask me about **Python, C, C++, JavaScript**
