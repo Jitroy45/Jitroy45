@@ -33,16 +33,16 @@
 <!-- GitHub Stats -->
 <h3 align="left">GitHub Stats:</h3>
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=yourusername&show_icons=true&locale=en" alt="yourusername" />
+  <img src="https://github-readme-stats.vercel.app/api?username=Jitroy45&show_icons=true&locale=en" alt="Jitroy45" />
 </p>
 <p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=yourusername&" alt="yourusername" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Jitroy45e&" alt="Jitroy45" />
 </p>
 
 <!-- Top Languages -->
 <h3 align="left">Top Languages:</h3>
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=yourusername&show_icons=true&locale=en&layout=compact" alt="yourusername" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=Jitroy45&show_icons=true&locale=en&layout=compact" alt="Jitroy45" />
 </p>
 
 <!-- Socials -->
