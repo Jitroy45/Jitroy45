@@ -1,7 +1,7 @@
 <!-- Profile README Template -->
 
 <h1 align="center">Hi 👋, I'm LOKI</h1>
-<h3 align="center">A passionate developer proficient in Python and JavaScript</h3>
+<h3 align="center">A passionate Electrical Engineer and developer proficient in Python, MATLAB and Simulink</h3>
 
 <p align="center">
   <img src="https://komarev.com/ghpvc/?username=Jitroy45&label=Profile%20views&color=0e75b6&style=flat" alt="Jitroy45" />
@@ -14,10 +14,10 @@
 </p>
 
 <!-- About Me -->
-- 🔭 I’m currently working on [Anime Ocean 3.0](https://github.com/Jitroy45/animeocean-3-0)
+- 🔭 I’m currently working on PMRLSM( Permanent Magnet Rotor Linear Synchronous motor)
 - 🌱 I’m currently learning **IOT Implementations in bot applications on discord and telegram**
 - 👯 I’m looking to collaborate on **discord and telegram bot projects**
-- 💬 Ask me about **Python, C, C++, JavaScript**
+- 💬 Ask me about **Python, C++, MATLAB, Simulink**
 - ⚡ Fun fact **I write poetry**
 
 <!-- Languages and Tools -->
