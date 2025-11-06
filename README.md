@@ -21,7 +21,7 @@ Electrical Engineer specializing in **high-performance power systems**, **renewa
 - 🔭 **Current Project**: **Permanent Magnet Rotor Linear Synchronous Motor (PMRLSM)** – High-thrust, precision linear actuation for industrial automation  
 - 🌱 **Research Focus**: AI-optimized control for renewable-dominant grids  
 - 🛠️ **Core Tools**: MATLAB · Simulink · PVlib · FEMM · PSCAD · ETAP · Python (Control & Optimization)  
-- 🎨 **Creative Outlet**: Engineering-inspired poetry & dynamic data visualizations  
+- 🎨 **Creative Outlet**: Poetry
 
 ---
 
