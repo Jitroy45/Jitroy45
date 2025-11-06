@@ -1,58 +1,41 @@
 <!-- Electrical Engineer Portfolio Style README -->
-
-<h1 align="center">⚡ Hey there, I'm <b>LOKI</b></h1>
-<h3 align="center">Innovating where Electromagnetism meets Imagination ⚙️</h3>
+<h1 align="center">⚡ <b>LOKI</b> – Powering Tomorrow's Grid</h1>
+<h3 align="center">Electromagnetic Architect | Renewable Energy Engineer | Control Systems Innovator ⚙️</h3>
 
 ---
+<p align="center">
+  <em>"Electricity isn't just energy — it's the silent pulse that drives the future."</em>
+</p>
 
 <p align="center">
-  <em>"Electricity is not just power — it's poetry in motion."</em>
+  <img src="https://upload.wikimedia.org/wikipedia/commons/9/99/Animated_electric_current.gif" width="280" alt="Dynamic current flow"/>
+  <br>
+  <sub>⚡ <i>Real-time electromagnetic field simulation in motion</i> ⚡</sub>
 </p>
 
 ---
 
-### 🧭 About Me  
-I’m an **Electrical Engineer** driven by a deep curiosity for **electromagnetic design, simulation, and control systems**.  
-My journey blends **engineering precision** with **creative intuition**, where circuits, fields, and code come together to move ideas — quite literally.  
+### 🧭 **About Me**  
+Electrical Engineer specializing in **high-performance power systems**, **renewable energy integration**, and **advanced electromagnetic design**. I build scalable, efficient, and intelligent electrical infrastructures — from microgrids to linear propulsion systems.
 
-- 🔭 Currently developing: **Permanent Magnet Rotor Linear Synchronous Motor (PMRLSM)**  
-- 🧩 Exploring: **Smart automation and IoT integrations in electromechanical systems**  
-- 🧠 Skilled in: **MATLAB · Simulink · PVlib · FEMM · Power System Design**  
-- 🎨 Creative side: I often write **poetry** inspired by engineering and the quiet rhythm of machines.  
-
----
-
-### ⚙️ Focus Areas  
-- Electromagnetic System Modelling  
-- Power Electronics and Drive Systems  
-- Control System Design (PID, State-Space, and AI-driven)  
-- Renewable Energy Modelling & Simulation  
-- Linear Motor Design & Dynamic Field Analysis  
+- 🔭 **Current Project**: **Permanent Magnet Rotor Linear Synchronous Motor (PMRLSM)** – High-thrust, precision linear actuation for industrial automation  
+- 🌱 **Research Focus**: AI-optimized control for renewable-dominant grids  
+- 🛠️ **Core Tools**: MATLAB · Simulink · PVlib · FEMM · PSCAD · ETAP · Python (Control & Optimization)  
+- 🎨 **Creative Outlet**: Engineering-inspired poetry & dynamic data visualizations  
 
 ---
 
-### 🔬 Ongoing Research  
-**Design, Modelling and Control of a Permanent Magnet Linear Synchronous Motor (PMLSM)**  
-Exploring electromagnetic design using **FEMM** and **MATLAB Simulink** to develop a control-driven linear motion system — an intersection of **magnetic field theory** and **practical automation**.  
+### ⚡ **Power Systems & Electrical Design Mastery**
+
+| Domain | Key Capabilities | Tools & Techniques |
+|--------|------------------|--------------------|
+| **Grid Modeling & Stability** | Transient stability, fault analysis, load flow, contingency planning | PSCAD, ETAP, DIgSILENT, Python (PyPSA) |
+| **Renewable Integration** | PV array optimization, wind farm control, hybrid microgrid design | PVlib, HOMER Pro, Simulink Renewable Library |
+| **Power Electronics** | Multilevel inverters, PWM strategies, harmonic mitigation | MATLAB Power System Blocks, PLECS |
+| **Protection & Relay Systems** | Digital relay coordination, arc flash studies, IEC 61850 | ASPEN OneLiner, Simulink Control Design |
+
+> **Live Demo**: [Interactive PV Yield Forecast Dashboard](https://loki-pv-forecast.streamlit.app) *(Simulated real-time solar performance using PVlib + weather API)*
 
 ---
 
-### 🌞 Other Work  
-- PV system performance analysis using **PVlib** and **Python**  
-- Smart grid & relay fault simulation in **Simulink**  
-- PCB and hardware prototyping for embedded energy applications  
-- Integration of sensors, actuators, and IoT modules for energy-aware systems  
-
----
-
-<p align="center">
-  <img src="https://upload.wikimedia.org/wikipedia/commons/9/99/Animated_electric_current.gif" width="220" alt="Electric flow animation"/>
-</p>
-
----
-
-<h3 align="center">⚡ "Engineering is the quiet art of giving motion to thought." ⚙️</h3>
-
-<p align="center">
-  <em>– LOKI</em>
-</p>
+### 🔋 **Renewable Energy Engineering**
