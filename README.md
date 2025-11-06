@@ -34,7 +34,6 @@ Electrical Engineer specializing in **high-performance power systems**, **renewa
 | **Power Electronics** | Multilevel inverters, PWM strategies, harmonic mitigation | MATLAB Power System Blocks, PLECS |
 | **Protection & Relay Systems** | Digital relay coordination, arc flash studies, IEC 61850 | ASPEN OneLiner, Simulink Control Design |
 
-> **Live Demo**: [Interactive PV Yield Forecast Dashboard](https://loki-pv-forecast.streamlit.app) *(Simulated real-time solar performance using PVlib + weather API)*
 
 ---
 
