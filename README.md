@@ -1,55 +1,58 @@
-<!-- Profile README Template -->
+<!-- Electrical Engineer Portfolio Style README -->
 
-<h1 align="center">Hi 👋, I'm LOKI</h1>
-<h3 align="center">A passionate Electrical Engineer and developer proficient in Python, MATLAB and Simulink</h3>
+<h1 align="center">⚡ Hey there, I'm <b>LOKI</b></h1>
+<h3 align="center">Innovating where Electromagnetism meets Imagination ⚙️</h3>
 
-<p align="center">
-  <img src="https://komarev.com/ghpvc/?username=Jitroy45&label=Profile%20views&color=0e75b6&style=flat" alt="Jitroy45" />
-</p>
+---
 
 <p align="center">
-  <a href="https://github.com/ryo-ma/github-profile-trophy">
-    <img src="https://github-profile-trophy.vercel.app/?username=Jitroy45" alt="Jitroy45" />
-  </a>
+  <em>"Electricity is not just power — it's poetry in motion."</em>
 </p>
 
-<!-- About Me -->
-- 🔭 I’m currently working on PMRLSM( Permanent Magnet Rotor Linear Synchronous motor)
-- 🌱 I’m currently learning **IOT Implementations in bot applications on discord and telegram**
-- 👯 I’m looking to collaborate on **discord and telegram bot projects**
-- 💬 Ask me about **Python, C++, MATLAB, Simulink**
-- ⚡ Fun fact **I write poetry**
+---
 
-<!-- Languages and Tools -->
-<h3 align="left">Languages and Tools:</h3>
-<p align="left">
-  <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> 
-  <a href="https://www.cprogramming.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="c" width="40" height="40"/> </a> 
-  <a href="https://isocpp.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="cplusplus" width="40" height="40"/> </a> 
-  <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a>
-  <!-- Add more icons as needed -->
-</p>
+### 🧭 About Me  
+I’m an **Electrical Engineer** driven by a deep curiosity for **electromagnetic design, simulation, and control systems**.  
+My journey blends **engineering precision** with **creative intuition**, where circuits, fields, and code come together to move ideas — quite literally.  
 
-<!-- GitHub Stats -->
-<h3 align="left">GitHub Stats:</h3>
+- 🔭 Currently developing: **Permanent Magnet Rotor Linear Synchronous Motor (PMRLSM)**  
+- 🧩 Exploring: **Smart automation and IoT integrations in electromechanical systems**  
+- 🧠 Skilled in: **MATLAB · Simulink · PVlib · FEMM · Power System Design**  
+- 🎨 Creative side: I often write **poetry** inspired by engineering and the quiet rhythm of machines.  
+
+---
+
+### ⚙️ Focus Areas  
+- Electromagnetic System Modelling  
+- Power Electronics and Drive Systems  
+- Control System Design (PID, State-Space, and AI-driven)  
+- Renewable Energy Modelling & Simulation  
+- Linear Motor Design & Dynamic Field Analysis  
+
+---
+
+### 🔬 Ongoing Research  
+**Design, Modelling and Control of a Permanent Magnet Linear Synchronous Motor (PMLSM)**  
+Exploring electromagnetic design using **FEMM** and **MATLAB Simulink** to develop a control-driven linear motion system — an intersection of **magnetic field theory** and **practical automation**.  
+
+---
+
+### 🌞 Other Work  
+- PV system performance analysis using **PVlib** and **Python**  
+- Smart grid & relay fault simulation in **Simulink**  
+- PCB and hardware prototyping for embedded energy applications  
+- Integration of sensors, actuators, and IoT modules for energy-aware systems  
+
+---
+
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Jitroy45&show_icons=true&locale=en" alt="Jitroy45" />
-</p>
-<p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Jitroy45e&" alt="Jitroy45" />
+  <img src="https://upload.wikimedia.org/wikipedia/commons/9/99/Animated_electric_current.gif" width="220" alt="Electric flow animation"/>
 </p>
 
-<!-- Top Languages -->
-<h3 align="left">Top Languages:</h3>
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=Jitroy45&show_icons=true&locale=en&layout=compact" alt="Jitroy45" />
-</p>
+---
 
-<!-- Socials -->
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-  <a href="https://linkedin.com/in/yourusername" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" alt="yourusername" height="30" width="40" /></a>
-  <a href="https://stackoverflow.com/users/yourusername" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/stackoverflow.svg" alt="yourusername" height="30" width="40" /></a>
-  <a href="https://twitter.com/yourusername" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitter.svg" alt="yourusername" height="30" width="40" /></a>
-  <!-- Add more social links as needed -->
+<h3 align="center">⚡ "Engineering is the quiet art of giving motion to thought." ⚙️</h3>
+
+<p align="center">
+  <em>– LOKI</em>
 </p>
