@@ -57,3 +57,11 @@ Exploring electromagnetic design using **FEMM** and **MATLAB Simulink** to devel
   <em>– LOKI</em>
 </p>
 
+<p align="center">
+    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Jitroy45&theme=dark" />
+</p>
+
+<p align="center">
+    <img src="https://streak-stats.demolab.com/?user=Jitroy45&theme=dark" />
+</p>
+
