@@ -27,6 +27,12 @@ I am currently designing and modeling a **Permanent Magnet Linear Synchronous Mo
 When I'm not calculating magnetic flux density, I write poetry. I find that engineering gives me the structure I need, and writing gives me the chaos I enjoy.
 
 <br>
-<p align="left">
-    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Jitroy45&theme=gotham&layout=compact&hide_border=true" height="150" />
+<p align="center">
+  <em>– LOKI</em>
+</p>
+<p align="center">
+    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Jitroy45&theme=dark" />
+</p>
+<p align="center">
+    <img src="https://streak-stats.demolab.com/?user=Jitroy45&theme=dark" />
 </p>
