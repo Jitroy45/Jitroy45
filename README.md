@@ -34,9 +34,6 @@ When I'm not calculating magnetic flux density, I write poetry. I find that engi
     <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Jitroy45&theme=dark" />
 </p>
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Jitroy45&show_icons=true&theme=tokyonight&rank_icon=github&border_radius=10" />
-</p>
-<p align="center">
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=Jitroy45&theme=dracula&area=true&hide_border=true" />
 </p>
 <p align="center">
